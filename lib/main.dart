@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 
-import 'modules/screens/maspaha.dart';
+import 'objects/screens/taspeeh.dart';
 
 void main() => runApp(
       const MyApp(),
